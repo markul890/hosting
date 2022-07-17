@@ -87,6 +87,6 @@ p {
 
 @media (max-width: 600px) {
   h2 {
-    text-align: center;
+    text-align: right;
   }
 }
